@@ -89,7 +89,7 @@ namespace COMP003A.LectureActivity4
             }
             Console.WriteLine("\n"); // new line
             Console.WriteLine("".PadRight(50, '*'));
-            Console.WriteLine("example for loop program that counter from 1-20 and checks if it is odd or even");\
+            Console.WriteLine("example for loop program that counter from 1-20 and checks if it is odd or even");
             Console.WriteLine("".PadRight(50, '*'));
 
             // 1. loop variable 'i' is set 1 instead of 0
